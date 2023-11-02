@@ -196,4 +196,4 @@ assign [class="firefox"] 2
 exec --no-startup-id ~/.config/i3/scripts/lenovo-monitor.sh
 #exec --no-startup-id xrandr --output HDMI-1-1 --auto --right-of eDP-1 --brightness 0.95
 exec --no-startup-id setxkbmap -layout us -variant altgr-intl
-exec --no-startup-id feh --bg-center ~Pictures/wallpaper.png
+exec --no-startup-id feh --bg-center ~/Pictures/wallpaper.png
